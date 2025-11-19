@@ -1,5 +1,5 @@
-# README: Random Number Generator
-Note that this program may not work as expected. In order to run this program on macOS, use Wine, us a Windows VM or use Bootcamp (Intel only) to run Windows natively. The .py code file is attatched to each release (excluding Version 0.0.1 as the .py file was lost) for you to look at if you wish.
+# README: Random Number Generator for Windows
+Note that this program may not work as expected. In order to run this program on macOS, use Wine, us a Windows VM or use Bootcamp (Intel only) to run Windows natively. The .py code file is attatched to each release (excluding Version 0.0.1 as the .py file was lost) for you to look at if you wish. However, versions 0.0.6, 0.0.7 and 0.0.71 do not include .py files as these updates only included installers, not any new features. The .py file is the same as in version 0.0.5.
 # Known issues with this program
 Due to the fact you are downloading a .exe file directly, there are some issues that arise when opening the file. Please read the section relating to how you are opening the file.
 # Google Chrome or Chromium-based browser (Excluding Microsoft Edge):

@@ -18,3 +18,5 @@ If you have downloaded it from Google Chrome or another Chromium-based browser (
 As an installer is now included with these versions, you do NOT need to follow the instructions above. When you open the installer file, a user account control [rompt will appear. Click 'yes', and after installation, the app can be opened from the start menu.
 # Version 0.0.8 or later
 The .exe and installer is both included in these versions. Using the installer is recommended for properly running the application as intended, but the .exe can be downloaded to save time.
+# Compatibility
+This program has been tested and created solely on a Windows 11 machine. Using older versions of Windows to run this program come solely at your own risk. Even though it has not been tested, this progrsm is believed to run on Windows 10.
